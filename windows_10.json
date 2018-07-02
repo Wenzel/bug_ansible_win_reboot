@@ -48,6 +48,6 @@
         "username": "vagrant",
         "password": "vagrant",
         "communicator_port": "3000",
-        "ansible_debug": ""
+        "ansible_debug": "-vvvvv"
     }
 }
