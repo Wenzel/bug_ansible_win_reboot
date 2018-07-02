@@ -1,0 +1,7 @@
+*.pyc
+venv/
+packer
+packer_cache
+ansible/hosts
+ansible/*.retry
+output-qemu
